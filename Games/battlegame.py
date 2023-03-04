@@ -1,4 +1,3 @@
-#workshop assisgnment
 
 #classes
 Wizard = "Wizard"
